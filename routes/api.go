@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"web/api"
+	"youtube-manager-go/web/api"
 	"github.com/labstack/echo"
 )
 
